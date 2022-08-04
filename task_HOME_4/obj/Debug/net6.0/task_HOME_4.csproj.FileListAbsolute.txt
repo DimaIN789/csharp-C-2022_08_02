@@ -1,0 +1,15 @@
+E:\IT\GIT\C#\2826\seminar1\task_HOME_4\bin\Debug\net6.0\task_HOME_4.exe
+E:\IT\GIT\C#\2826\seminar1\task_HOME_4\bin\Debug\net6.0\task_HOME_4.deps.json
+E:\IT\GIT\C#\2826\seminar1\task_HOME_4\bin\Debug\net6.0\task_HOME_4.runtimeconfig.json
+E:\IT\GIT\C#\2826\seminar1\task_HOME_4\bin\Debug\net6.0\task_HOME_4.dll
+E:\IT\GIT\C#\2826\seminar1\task_HOME_4\bin\Debug\net6.0\task_HOME_4.pdb
+E:\IT\GIT\C#\2826\seminar1\task_HOME_4\obj\Debug\net6.0\task_HOME_4.csproj.AssemblyReference.cache
+E:\IT\GIT\C#\2826\seminar1\task_HOME_4\obj\Debug\net6.0\task_HOME_4.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT\GIT\C#\2826\seminar1\task_HOME_4\obj\Debug\net6.0\task_HOME_4.AssemblyInfoInputs.cache
+E:\IT\GIT\C#\2826\seminar1\task_HOME_4\obj\Debug\net6.0\task_HOME_4.AssemblyInfo.cs
+E:\IT\GIT\C#\2826\seminar1\task_HOME_4\obj\Debug\net6.0\task_HOME_4.csproj.CoreCompileInputs.cache
+E:\IT\GIT\C#\2826\seminar1\task_HOME_4\obj\Debug\net6.0\task_HOME_4.dll
+E:\IT\GIT\C#\2826\seminar1\task_HOME_4\obj\Debug\net6.0\refint\task_HOME_4.dll
+E:\IT\GIT\C#\2826\seminar1\task_HOME_4\obj\Debug\net6.0\task_HOME_4.pdb
+E:\IT\GIT\C#\2826\seminar1\task_HOME_4\obj\Debug\net6.0\task_HOME_4.genruntimeconfig.cache
+E:\IT\GIT\C#\2826\seminar1\task_HOME_4\obj\Debug\net6.0\ref\task_HOME_4.dll
